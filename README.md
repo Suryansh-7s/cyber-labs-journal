@@ -1,38 +1,44 @@
-# Cyber Labs Journal – Suryansh Sharma
+# 🧪 Cyber Labs Journal
 
-👋 Welcome to my cybersecurity learning journal!  
-This repository tracks my progress across structured labs, scripting challenges, and blue team exercises — all aligned to becoming job-ready for a SOC Analyst / Detection Engineering role.
+This repository is a personal journal of all the blue team labs I complete—primarily on [CyberDefenders](https://cyberdefenders.org/). Each lab entry includes my thought process, answers, tools used, and key takeaways.
 
----
-
-## 🧩 What’s Inside
-
-| Track | Topics | Tools |
-|-------|--------|-------|
-| SOC Analyst Tier 1 (CyberDefenders) | PCAP Analysis, Incident Response | Wireshark, GeoIP |
-| Python Scripting for CyberSec | Log Parsing, Regex, File Handling | Python, Regex, JSON |
-| Custom Notes | Quick lookups and tooling notes | Splunk, FastAPI, Bash |
+The goal? To build practical SOC Analyst skills by getting hands-on with packet captures, log analysis, and detection workflows—one lab at a time.
 
 ---
 
-## 📘 Completed Labs
+## 📁 Folder Structure
 
-- ✅ **[WebStrike (SOC Tier 1)](SOC-Tier1/2024-06-23_WebStrike.md)**  
-  Investigated a web-based attack from `.pcap` using Wireshark and Follow TCP Streams.
+```
+cyber-labs-journal/
+│
+├── README.md
+└── SOC-Tier1/
+    ├── 2024-06-23_WebStrike.md
+    ├── YYYY-MM-DD_LabName.md
+    └── ...
+```
+
+> I follow the naming format `YYYY-MM-DD_LabName.md` for clarity and consistency.
 
 ---
 
-## 🎯 Goals
+## ✅ Completed Labs
 
-- Practice 10+ CyberDefenders labs by August
-- Script basic alert rules and log parsing tools in Python
-- Build confidence in detection engineering concepts
-- Document my learning regularly to track depth and growth
+| Lab Name     | Date         | Status      |
+|--------------|--------------|-------------|
+| WebStrike    | 2024-06-23   | ✅ Completed |
+| *More soon*  | *TBD*        | ⏳ Pending   |
 
 ---
 
-## 📬 Connect with Me
+## ✍️ Why This Journal?
 
-- 🔗 [Portfolio](https://suryansh-sharma-portfolio.vercel.app/)
-- 💼 [LinkedIn](https://linkedin.com/in/suryansh-sharmaseven/)
-- 🛡️ [GitHub](https://github.com/Suryansh-7s)
+I’m maintaining this to:
+- Track my learning in a structured way
+- Reflect on how I solve each lab
+- Build a habit of documenting investigations
+- Eventually use it as a showcase for my SOC skills
+
+---
+
+Stay tuned — more labs and writeups coming soon!
