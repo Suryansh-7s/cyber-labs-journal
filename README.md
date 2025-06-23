@@ -42,3 +42,9 @@ I’m maintaining this to:
 ---
 
 Stay tuned — more labs and writeups coming soon!
+
+## 📬 Connect with Me
+
+- 🔗 [Portfolio](https://suryansh-sharma-portfolio.vercel.app/)
+- 💼 [LinkedIn](https://linkedin.com/in/suryansh-sharmaseven/)
+- 🛡️ [GitHub](https://github.com/Suryansh-7s)
